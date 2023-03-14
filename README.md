@@ -1,14 +1,7 @@
 # RAD-Controller-VIbration
 A small controller vibration plugin for Unity's old input system
 
----------------------------------------------------------------------------
-Table of Contents:
-	1) Copyright Info
-	2) About this Project
-	3) Tutorial
-	4) Troubleshooting
 
----------------------------------------------------------------------------
 Copyright Info:
 
 	Portions Copyright © 2002-2008 Charlie Poole
